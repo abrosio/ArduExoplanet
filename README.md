@@ -32,7 +32,7 @@
 The 3D printable components for the project can be downloaded from:  
 [Thingiverse - ArduExoplanet Model](https://www.thingiverse.com/thing:6888870)
 
-![Interface Example](ArduExo2.png)
+![Interface Example](Arduexo2.png)
 
 ---
 
